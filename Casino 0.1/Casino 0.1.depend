@@ -1,0 +1,6 @@
+# depslib dependency file v1.0
+1701859546 source:g:\pdp lessons\casino 0.1\main.cpp
+	<iostream>
+	<time.h>
+	<windows.h>
+
